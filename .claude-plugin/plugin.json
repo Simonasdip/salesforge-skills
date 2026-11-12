@@ -1,0 +1,11 @@
+{
+  "name": "salesforge-outreach",
+  "displayName": "Salesforge Outreach Skills",
+  "version": "1.0.0",
+  "description": "Six skills that run cold outreach in Salesforge through the Forge MCP: interview, infrastructure, leads, copy, sequence and replies.",
+  "author": {
+    "name": "Salesforge"
+  },
+  "license": "MIT",
+  "keywords": ["cold-email", "outreach", "salesforge", "linkedin", "lead-generation"]
+}

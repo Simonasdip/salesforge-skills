@@ -1,0 +1,14 @@
+{
+  "name": "salesforge-skills",
+  "description": "Cold outreach skills for Claude Code and Salesforge.",
+  "owner": {
+    "name": "Salesforge"
+  },
+  "plugins": [
+    {
+      "name": "salesforge-outreach",
+      "source": "./",
+      "description": "Six skills that run cold outreach in Salesforge: interview, infrastructure, leads, copy, sequence and replies."
+    }
+  ]
+}
